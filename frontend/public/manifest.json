@@ -1,0 +1,16 @@
+{
+  "short_name": "Panic Attack Handler",
+  "name": "Panic Attack App Handler",
+  "icons": [
+    {
+      "src": "pahandle.png",
+      "sizes": "144x144, 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
